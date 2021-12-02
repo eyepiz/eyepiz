@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduardo Yepiz, a sophomore CS major at the University of Notre Dame.
+- 👋 Hi, I’m Eduardo Yepiz, a Sophomore Computer Science major at the University of Notre Dame.
 - 👀 I’m interested in technology, specifically artificial intelligence and electric cars.
 - 🌱 I’m currently taking Data Structures and Discrete Mathematics.
 - 📫 How to reach me:
