@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduardo Yepiz, a Sophomore Computer Science major at the University of Notre Dame.
+- 👋 Hi, I’m Eduardo Yepiz, a Junior Computer Science major at the University of Notre Dame.
 - 👀 I’m interested in artificial intelligence and electric vehicles.
 - 🌱 I’m currently taking Logic Design and Systems Programming.
 - 📫 How to reach me:
