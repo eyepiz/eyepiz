@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eduardo Yepiz, a Junior Computer Science major at the University of Notre Dame.
 - 👀 I’m interested in artificial intelligence and electric vehicles.
-- 🌱 I’m currently taking Logic Design and Systems Programming.
+- 🌱 I’m currently taking Computer Architecture, Database Concepts, and Theory of Computing.
 - 📫 How to reach me:
   - Email - eyepiz@nd.edu
   - LinkedIn - www.linkedin.com/in/eduardo-yepiz
